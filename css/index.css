@@ -5,4 +5,27 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 75px;
+}
+
+.company-location{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.company-address{
+    position: absolute;
+    width: 100%;
+    height: 110%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    list-style-type: none;
 }
